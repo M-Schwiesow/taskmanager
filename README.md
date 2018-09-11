@@ -1,0 +1,1 @@
+A simple task management application utilizing Java2EE, SpringBoot, and MySQL.
